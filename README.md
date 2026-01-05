@@ -3,6 +3,9 @@
 A full-stack **Task Manager application** built with **React**, **Node.js**, **Docker**, **Kubernetes**, and **AWS**.  
 This project demonstrates a real-world cloud-native workflow from **local development** to **container orchestration** and **cloud deployment**.
 
+![Frontend](/images/frontend.png)
+![Backend](/images/backend.png)
+
 ---
 
 ## 🚀 Project Overview
